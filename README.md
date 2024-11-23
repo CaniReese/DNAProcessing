@@ -40,13 +40,21 @@ Proje, şu klasör yapısına sahiptir:
 
 Veri_Yapilari/
 ├── src/                 # Kaynak dosyalar (.cpp)
+
 ├── include/             # Başlık dosyaları (.h)
+
 ├── bin/                 # Çalıştırılabilir dosya
+
 ├── lib/                 # Nesne dosyaları (.o)
+
 ├── doc/                 # Rapor dosyası (Rapor.pdf)
+
 ├── Dna.txt              # Dna veri dosyası
+
 ├── Islemler.txt         # İşlem dosyası
+
 ├── Makefile             # Derleme için Makefile
+
 ├── benioku.txt          # Proje hakkında kısa bilgi
 
 
