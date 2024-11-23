@@ -46,8 +46,6 @@ Proje, şu klasör yapısına sahiptir:
 
 ├── lib/                 # Nesne dosyaları (.o)
 
-├── doc/                 # Rapor dosyası (Rapor.pdf)
-
 ├── Dna.txt              # Dna veri dosyası
 
 ├── Islemler.txt         # İşlem dosyası
