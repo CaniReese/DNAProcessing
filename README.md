@@ -52,8 +52,6 @@ Proje, şu klasör yapısına sahiptir:
 
 ├── Makefile             # Derleme için Makefile
 
-├── benioku.txt          # Proje hakkında kısa bilgi
-
 
 ### **Makefile Komutları**
 Projenin derlenmesi ve çalıştırılması için `Makefile` kullanılmıştır. Aşağıdaki komutları komut isteminde çalıştırabilirsiniz:
