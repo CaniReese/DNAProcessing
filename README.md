@@ -38,7 +38,6 @@ Program çalıştırıldığında kullanıcı aşağıdaki menüden bir işlem s
 ### **Klasör Yapısı**
 Proje, şu klasör yapısına sahiptir:
 
-Veri_Yapilari/
 ├── src/                 # Kaynak dosyalar (.cpp)
 
 ├── include/             # Başlık dosyaları (.h)
